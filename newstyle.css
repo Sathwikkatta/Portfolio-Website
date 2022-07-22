@@ -82,7 +82,7 @@ body {
 .sidebar ul li .tooltip {
     background-color: rgba(32, 27, 28, 0.6);
     position: absolute;
-    left: 122px;
+    left: 80px;
     top: 0;
     transform: translateY(-50%);
     border-radius: 6px;
